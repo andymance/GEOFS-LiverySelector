@@ -16938,6 +16938,13 @@
                     ]
                 },
                 {
+                    "name": "Philippine Airlines ",
+                    "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/boeing_b777-300er/philippines.png"
+                    ]
+                },
+                {
                     "name": "Etihad Airways (old design)",
                     "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
